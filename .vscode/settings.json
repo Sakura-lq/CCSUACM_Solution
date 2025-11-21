@@ -66,6 +66,12 @@
     "string": "cpp",
     "unordered_map": "cpp",
     "unordered_set": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "barrier": "cpp",
+    "random": "cpp",
+    "latch": "cpp",
+    "limits": "cpp",
+    "semaphore": "cpp",
+    "valarray": "cpp"
   }
 }
