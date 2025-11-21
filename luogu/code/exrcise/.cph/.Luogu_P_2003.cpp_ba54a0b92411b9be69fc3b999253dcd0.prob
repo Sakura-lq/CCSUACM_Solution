@@ -1,0 +1,1 @@
+{"name":"Luogu - P2003","url":"https://www.luogu.com.cn/problem/P2003","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1757748981618,"input":"3\r\n1 5 10\r\n3 1 5\r\n5 3 7\r\n","output":"14"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_P_2003.cpp"}

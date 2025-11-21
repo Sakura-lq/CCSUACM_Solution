@@ -1,0 +1,1 @@
+{"name":"Luogu - P8773","url":"https://www.luogu.com.cn/problem/P8773","memoryLimit":131072,"timeLimit":1000,"tests":[{"id":1755139228028,"input":"4 4 1\n1 2 3 4\n1 4\n1 2\n2 3\n3 3","output":"yes\nno\nyes\nno"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\Luogu_P_8773.cpp"}

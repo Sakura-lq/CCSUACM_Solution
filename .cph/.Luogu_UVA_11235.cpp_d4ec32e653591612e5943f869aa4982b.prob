@@ -1,0 +1,1 @@
+{"name":"Luogu - UVA11235","url":"https://www.luogu.com.cn/problem/UVA11235","memoryLimit":0,"timeLimit":3000,"tests":[{"id":1754838532306,"input":"10 3\n-1 -1 1 1 1 1 3 10 10 10\n2 3\n1 10\n5 10\n0","output":"1\n4\n3"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\Luogu_UVA_11235.cpp"}

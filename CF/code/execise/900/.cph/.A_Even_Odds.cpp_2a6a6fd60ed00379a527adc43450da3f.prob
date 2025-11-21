@@ -1,0 +1,1 @@
+{"name":"A. Even Odds","url":"https://codeforces.com/contest/318/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 188 (Div. 2)","tests":[{"input":"10 3\n","output":"5\n","id":1758200539074},{"id":1758200539031,"input":"7 7\n","output":"6\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\execise\\900\\A_Even_Odds.cpp"}

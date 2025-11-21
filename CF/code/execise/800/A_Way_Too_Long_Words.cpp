@@ -1,0 +1,38 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define double long double
+#define endl '\n'
+
+void solve()
+{
+    int q;
+    cin >> q;
+    while(q--)
+    {
+        string s;
+        cin >> s;
+        if(s.size() <= 10)
+        {
+            cout << s << endl;
+        }
+        else
+        {
+            string a = string(1, s[0]) + to_string(s.size() - 2) + s.back();
+            cout << a << endl;            
+        }
+    }
+    return ;
+}
+
+signed main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int T = 1;
+    // cin >> T;
+    while (T--) {
+        solve();
+    }
+    return 0;
+}

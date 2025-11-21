@@ -1,0 +1,1 @@
+{"name":"A. Fancy Fence","url":"https://codeforces.com/contest/270/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 165 (Div. 2)","tests":[{"id":1760506245140,"input":"3\n30\n60\n90\n","output":"NO\nYES\nYES\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\execise\\1100\\A_Fancy_Fence.cpp"}
