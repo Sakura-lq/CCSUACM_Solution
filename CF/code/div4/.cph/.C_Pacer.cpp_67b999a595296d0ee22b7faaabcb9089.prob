@@ -1,0 +1,1 @@
+{"name":"C. Pacer","url":"https://codeforces.com/contest/2148/problem/C","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 1050 (Div. 4)","tests":[{"id":1758581776260,"input":"3\n2 4\n2 1\n4 0\n2 7\n1 1\n4 0\n4 9\n1 0\n2 0\n6 1\n9 0\n","output":"2\n7\n6\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\div4\\C_Pacer.cpp"}

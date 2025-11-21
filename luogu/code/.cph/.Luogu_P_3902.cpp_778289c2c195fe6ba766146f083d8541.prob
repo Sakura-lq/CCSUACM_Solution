@@ -1,0 +1,1 @@
+{"name":"Luogu - P3902","url":"https://www.luogu.com.cn/problem/P3902","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"3\n1 3 2","output":"1","id":1755568676348},{"id":1755568676349,"input":"8\n1 2 3 4 4 5 6 7","output":"1"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\Luogu_P_3902.cpp"}

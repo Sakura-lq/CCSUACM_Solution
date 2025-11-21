@@ -1,0 +1,1 @@
+{"name":"Luogu - CF10B","url":"https://www.luogu.com.cn/problem/CF10B","memoryLimit":256000,"timeLimit":1000,"tests":[{"input":"2 1\n1 1\n","output":"1 1 1\n-1\n","id":1756392680157},{"id":1756392680193,"input":"4 3\n1 2 3 1\n","output":"2 2 2\n1 1 2\n3 1 3\n2 1 1\n"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_CF_10_B.cpp"}

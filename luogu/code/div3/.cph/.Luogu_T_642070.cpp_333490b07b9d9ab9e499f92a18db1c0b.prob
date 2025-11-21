@@ -1,0 +1,1 @@
+{"name":"Luogu - T642070","url":"https://www.luogu.com.cn/problem/T642070?contestId=256849","memoryLimit":262144,"timeLimit":3000,"tests":[{"id":1759301474364,"input":"3\n6 2\n1 1 4 5 1 4\n6 2\n0 0 4 5 0 4\n13 1\n0 1 2 3 4 5 2 7 8 3 10 4 12","output":"1\n5\n7"}],"group":"luogu - 256849","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\div3\\Luogu_T_642070.cpp"}

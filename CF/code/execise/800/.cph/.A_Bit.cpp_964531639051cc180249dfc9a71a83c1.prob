@@ -1,0 +1,1 @@
+{"name":"A. Bit++","url":"https://codeforces.com/contest/282/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 173 (Div. 2)","tests":[{"input":"1\n++X\n","output":"1\n","id":1758115856659},{"id":1758115856604,"input":"2\nX++\n--X\n","output":"0\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\execise\\800\\A_Bit.cpp"}

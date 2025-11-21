@@ -1,0 +1,1 @@
+{"name":"Luogu - B3874","url":"https://www.luogu.com.cn/problem/B3874","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"4\n2 1 3 0","output":"2","id":1756370234510},{"id":1756370234580,"input":"6\n0 1 2 3 4 5","output":"15"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\Luogu_B_3874.cpp"}

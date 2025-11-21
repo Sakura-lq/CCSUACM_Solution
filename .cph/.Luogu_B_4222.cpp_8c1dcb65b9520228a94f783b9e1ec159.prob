@@ -1,0 +1,1 @@
+{"name":"Luogu - B4222","url":"https://www.luogu.com.cn/problem/B4222","memoryLimit":524288,"timeLimit":1000,"tests":[{"input":"3 3 \n2 2 1 \n3 2 2 \n3 1 2","output":"10","id":1754985841583},{"id":1754985841609,"input":"5 5 \n4 4 3 4 3\n3 4 3 3 3 \n3 3 1 4 4 \n3 4 4 3 3 \n4 3 4 4 4","output":"77"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\Luogu_B_4222.cpp"}
