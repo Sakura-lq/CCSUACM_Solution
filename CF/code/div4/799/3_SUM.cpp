@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #include <bits/stdc++.h>
-=======
-#include<bits/stdc++.h>
->>>>>>> 162141883340ed1e531e925e31c1fe82fd8a7713
 using namespace std;
 #define int long long
 #define double long double
@@ -12,7 +8,6 @@ const int N = 3e5 + 7;
 
 void solve()
 {
-<<<<<<< HEAD
     int n;
     cin >> n;
 
@@ -51,10 +46,6 @@ void solve()
 
     cout << "NO" << endl;
     return;
-=======
-    
-    return ;
->>>>>>> 162141883340ed1e531e925e31c1fe82fd8a7713
 }
 
 signed main()
@@ -62,14 +53,9 @@ signed main()
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     int T = 1;
-<<<<<<< HEAD
     cin >> T;
     while (T--)
     {
-=======
-    // cin >> T;
-    while (T--) {
->>>>>>> 162141883340ed1e531e925e31c1fe82fd8a7713
         solve();
     }
     return 0;
