@@ -1,1 +1,0 @@
-{"name":"B. Interesting drink","url":"https://codeforces.com/contest/706/problem/B","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 367 (Div. 2)","tests":[{"id":1760355857932,"input":"5\n3 10 8 6 11\n4\n1\n10\n3\n11\n","output":"0\n4\n1\n5\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\execise\\800\\B_Interesting_drink.cpp"}

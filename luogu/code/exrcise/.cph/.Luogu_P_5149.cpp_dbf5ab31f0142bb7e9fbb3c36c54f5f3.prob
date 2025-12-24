@@ -1,1 +1,0 @@
-{"name":"Luogu - P5149","url":"https://www.luogu.com.cn/problem/P5149","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"3\nStan Kyle Kenny\nKyle Stan Kenny","output":"1","id":1759422326639},{"id":1759422326621,"input":"5\nA B C D E\nB A D E C","output":"3"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_P_5149.cpp"}

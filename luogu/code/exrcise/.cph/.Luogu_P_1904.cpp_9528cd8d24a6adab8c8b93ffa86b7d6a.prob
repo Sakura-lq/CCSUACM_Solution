@@ -1,1 +1,0 @@
-{"name":"Luogu - P1904","url":"https://www.luogu.com.cn/problem/P1904","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1757503373026,"input":"1 11 5\n2 6 7\n3 13 9\n12 7 16\n14 3 25\n19 18 22\n23 13 29\n24 4 28\n","output":"1 11 3 13 9 0 12 7 16 3 19 18 22 3 23 13 29 0"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_P_1904.cpp"}

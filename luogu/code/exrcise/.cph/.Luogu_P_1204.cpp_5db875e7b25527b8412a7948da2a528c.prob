@@ -1,1 +1,0 @@
-{"name":"Luogu - P1204","url":"https://www.luogu.com.cn/problem/P1204","memoryLimit":128000,"timeLimit":1000,"tests":[{"input":"3\n300 1000\n700 1200\n1500 2100\n","output":"900 300\n","id":1757748752952}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_P_1204.cpp"}

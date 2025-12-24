@@ -1,1 +1,0 @@
-{"name":"Luogu - P1168","url":"https://www.luogu.com.cn/problem/P1168","memoryLimit":131072,"timeLimit":1000,"tests":[{"input":"7\n1 3 5 7 9 11 6","output":"1\n3\n5\n6","id":1755573329127},{"id":1755573329095,"input":"7\n3 1 5 9 8 7 6","output":"3\n3\n5\n6"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\Luogu_P_1168.cpp"}

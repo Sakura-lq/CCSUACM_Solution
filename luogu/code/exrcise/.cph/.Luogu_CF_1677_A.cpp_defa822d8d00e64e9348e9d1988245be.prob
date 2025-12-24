@@ -1,1 +1,0 @@
-{"name":"Luogu - CF1677A","url":"https://www.luogu.com.cn/problem/CF1677A","memoryLimit":256000,"timeLimit":1500,"tests":[{"id":1756469753147,"input":"3\n6\n5 3 6 1 4 2\n4\n1 2 3 4\n10\n5 1 6 2 8 3 4 10 9 7","output":"3\n0\n28"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_CF_1677_A.cpp"}

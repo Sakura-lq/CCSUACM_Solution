@@ -1,1 +1,0 @@
-{"name":"B. Lasers","url":"https://codeforces.com/contest/2148/problem/B","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 1050 (Div. 4)","tests":[{"id":1758581764743,"input":"2\n1 1 2 2\n1\n1\n2 1 100000 100000\n42 58\n32\n","output":"2\n3\n"}],"srcPath":"d:\\happy code\\AC--qusition\\CF\\code\\div4\\B_Lasers.cpp"}

@@ -1,1 +1,0 @@
-{"name":"Luogu - P10470","url":"https://www.luogu.com.cn/problem/P10470","memoryLimit":524288,"timeLimit":1000,"tests":[{"input":"3 2\nab\nbc\nabc\nabc\nefg","output":"2\n0","id":1759512045583},{"id":1759512654121,"input":"3 2\na\nb\nc\nabc\ncde","output":"1\n1"}],"group":"luogu","srcPath":"d:\\happy code\\AC--qusition\\luogu\\code\\exrcise\\Luogu_P_10470.cpp"}
